@@ -1,0 +1,17 @@
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe.config
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.pdb
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.dll
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.pdb
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.pdb
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll.config
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks.csproj.AssemblyReference.cache
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.BookBrowseSearch.resources
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.LoginForm.resources
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.Properties.Resources.resources
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks.csproj.GenerateResource.cache
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks.csproj.CoreCompileInputs.cache
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks.csproj.CopyComplete
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.exe
+D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.pdb
