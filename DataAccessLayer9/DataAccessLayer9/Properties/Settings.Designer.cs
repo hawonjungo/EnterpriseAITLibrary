@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DataAccessLayer.Properties {
+namespace DataAccessLayer9.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

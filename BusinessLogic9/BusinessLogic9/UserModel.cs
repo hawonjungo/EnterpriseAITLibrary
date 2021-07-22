@@ -3,31 +3,38 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccessLayer;
+using DataAccessLayer9;
 
-namespace BusinessLogic
+namespace BusinessLogic9
 {
     public class UserModel
     {
         #region attributes
 
 
-        private int userId;
+        private int uID;
         private string userName;
+        private string password;
         private int userLevel;
+        private string userEmail;
 
         #endregion
 
         //properties
-        public int UserID
+        public int UID
         {
-            set { userId = value; }
-            get { return userId; }
+            set { uID = value; }
+            get { return uID; }
         }
         public string UserName
         {
             set { userName = value; /*extra code, whatever*/ }
             get { return userName; }
+        }
+        public string Password
+        {
+            set { password = value; /*extra code, whatever*/ }
+            get { return password; }
         }
         public int UserLevel
         {
@@ -41,6 +48,11 @@ namespace BusinessLogic
                 return userLevel;
             }
         }
+        public string UserEmail
+        {
+            set { userEmail = value; /*extra code, whatever*/ }
+            get { return userEmail; }
+        }
 
         //takes a row of data from our UserDataSet table and creates a UserModel object from it
         public static UserModel Parse(UserDS.TabUserRow userRow)
@@ -49,9 +61,11 @@ namespace BusinessLogic
                 return null;
 
             UserModel userModel = new UserModel();
-            userModel.UserID = userRow.UID;
+            userModel.UID = userRow.UID;
             userModel.UserName = userRow.UserName;
+            userModel.Password = userRow.Password;
             userModel.UserLevel = userRow.UserLevel;
+            userModel.UserEmail = userRow.UserEmail;
 
             return userModel;
         }

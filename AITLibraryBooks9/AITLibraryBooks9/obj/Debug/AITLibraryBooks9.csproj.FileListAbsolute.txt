@@ -32,59 +32,97 @@ C:\Users\User\Documents\AIT\2021 Session 1\CMP1046 Enterprise Systems\Assessment
 C:\Users\User\Documents\AIT\2021 Session 1\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CopyComplete
 C:\Users\User\Documents\AIT\2021 Session 1\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.exe
 C:\Users\User\Documents\AIT\2021 Session 1\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.pdb
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.AssemblyReference.cache
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.BookBrowseSearch.resources
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.LoginForm.resources
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.Properties.Resources.resources
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.GenerateResource.cache
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CoreCompileInputs.cache
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.exe
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.pdb
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe.config
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.pdb
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.dll
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.pdb
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.pdb
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll.config
-D:\STU\AIT\Enterprise\AssessmentTest\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CopyComplete
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe.config
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.pdb
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.dll
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.pdb
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.pdb
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll.config
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.AssemblyReference.cache
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks.LoginForm.resources
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.Properties.Resources.resources
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.GenerateResource.cache
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CoreCompileInputs.cache
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CopyComplete
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.exe
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.pdb
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\FontAwesome.Sharp.dll
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.Forms.Media.resources
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks.BookBrowseSearch.resources
-D:\STU\AIT\Enterprise\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.AITMainMenu.resources
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe.config
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.pdb
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.dll
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\FontAwesome.Sharp.dll
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.pdb
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.pdb
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll.config
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.AssemblyReference.cache
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.Forms.Media.resources
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks.LoginForm.resources
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.AITMainMenu.resources
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.Properties.Resources.resources
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.GenerateResource.cache
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CoreCompileInputs.cache
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CopyComplete
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.exe
-D:\STU\AIT\Enterprise\7667_DuongHoang\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.pdb
+C:\Users\User\Documents\AIT\2021 Session 1\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.AdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 1\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.StudentMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 1\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.UserAdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.AdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.BookAdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.BookBrowseSearch.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.CategoryAdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.LoginForm.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.Properties.Resources.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.StudentMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.UserAdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.GenerateResource.cache
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe.config
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.pdb
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.dll
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.pdb
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.pdb
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll.config
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.AssemblyReference.cache
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CopyComplete
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.exe
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.pdb
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe.config
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.pdb
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.dll
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.pdb
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.pdb
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll.config
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.AssemblyReference.cache
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.AdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.BookAdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.BookBrowseSearch.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.CategoryAdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.LoginForm.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.Properties.Resources.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.StudentMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.UserAdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.GenerateResource.cache
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CopyComplete
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.exe
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentTest3\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.pdb
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe.config
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.pdb
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.dll
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.pdb
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.pdb
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll.config
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.AssemblyReference.cache
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.AdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.BookAdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.BookBrowseSearch.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.CategoryAdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.LoginForm.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.Properties.Resources.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.StudentMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.UserAdminMenu.resources
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.GenerateResource.cache
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CopyComplete
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.exe
+C:\Users\User\Documents\AIT\2021 Session 2\CMP1046 Enterprise Systems\AssessmentSample4\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.pdb
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe.config
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.exe
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\AITLibraryBooks9.pdb
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.dll
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\FontAwesome.Sharp.dll
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\BusinessLogic9.pdb
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.pdb
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\bin\Debug\DataAccessLayer9.dll.config
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.AssemblyReference.cache
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.AdminMenu.resources
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.BookAdminMenu.resources
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.BookBrowseSearch.resources
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.CategoryAdminMenu.resources
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.LoginForm.resources
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.Properties.Resources.resources
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.StudentMenu.resources
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.UserAdminMenu.resources
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.GenerateResource.cache
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CoreCompileInputs.cache
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.csproj.CopyComplete
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.exe
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.pdb
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.DashBoard.resources
+D:\STU\AIT\Enterprise\Assessment\AITLibraryBooks9\AITLibraryBooks9\obj\Debug\AITLibraryBooks9.Forms.logintest.resources

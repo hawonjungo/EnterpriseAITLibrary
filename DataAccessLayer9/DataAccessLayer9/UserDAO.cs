@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccessLayer.UserDSTableAdapters;
+using DataAccessLayer9.UserDSTableAdapters;
 
-namespace DataAccessLayer
+namespace DataAccessLayer9
 {
     public class UserDAO
     {
@@ -55,6 +55,11 @@ namespace DataAccessLayer
         {
             //returns number of users updated
             return tabUserAdapter.UpdatePassword(password, userID);
+        }
+        public int UpdateUserData(int userID, string password, int userLevel, string userEmail)
+        {
+            //returns number of users updated
+            return tabUserAdapter.UpdateUserData(password, userLevel, userEmail, userID);
         }
         public int DeleteUserByUserID(int userID)
         {

@@ -7,10 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using AITLibraryBooks9;
-using BusinessLogic;
+using BusinessLogic9;
 
-namespace AITLibraryBooks
+namespace AITLibraryBooks9
 {
     public partial class LoginForm : Form
     {
@@ -30,6 +29,7 @@ namespace AITLibraryBooks
             if (users.Count > 0)
             {
                 //keep track of current user details
+                CurrentUser.UID = users[0].UID;
                 CurrentUser.UserName = users[0].UserName;
                 CurrentUser.UserLevel = users[0].UserLevel;
 
@@ -58,31 +58,18 @@ namespace AITLibraryBooks
                 lblError.Text = "Login Error!";
             }
 
-
-
         }
         public static void OpenMediaForm()
         {
-            Application.Run(new AITMainMenu());
-            
+            Application.Run(new BookBrowseSearch());
         }
 
         public static void OpenAdminForm()
         {
-            //Application.Run(new AdminForm());
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
+            Application.Run(new DashBoard());
         }
 
         private void LoginForm_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }

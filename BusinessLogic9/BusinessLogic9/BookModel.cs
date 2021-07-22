@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccessLayer;
+using DataAccessLayer9;
 
-namespace BusinessLogic
+namespace BusinessLogic9
 {
     public class BookModel
     {
         #region attributes
 
-        private string bookId;
+        private string isbn;
         private string bookName;
         private string publisher;
         private int bookPublishYear;
@@ -22,10 +22,10 @@ namespace BusinessLogic
 
         #endregion
         #region properties
-        public string BookID
+        public string ISBN
         {
-            set { bookId = value; }
-            get { return bookId; }
+            set { isbn = value; }
+            get { return isbn; }
         }
         public string BookName
         {
@@ -70,7 +70,7 @@ namespace BusinessLogic
                 return null;
 
             BookModel book = new BookModel();
-            book.BookID = bookRow.ISBN;
+            book.ISBN = bookRow.ISBN;
             book.BookName = bookRow.BookName;
             book.Publisher = bookRow.Publisher;
             book.BookPublishYear = bookRow.PublishYear;

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccessLayer;
+using DataAccessLayer9;
 
-namespace BusinessLogic
+namespace BusinessLogic9
 {
     public class UserLogic
     {
@@ -52,7 +52,6 @@ namespace BusinessLogic
 
             return users; //return list of users :D
         }
-
         public int AddNewUser(string username, string password, int userLevel, string email)
         {
             return userDAO.InsertNewUser(username, password, userLevel, email);
@@ -64,6 +63,10 @@ namespace BusinessLogic
                 return -1;
             else
                 return userDAO.UpdatePassword(newPassword, userID);
+        }
+        public int UpdateUserData(int userID, string newPassword, int userLevel, string userEmail)
+        {
+            return userDAO.UpdateUserData(userID, newPassword, userLevel, userEmail);
         }
         public int DeleteUserByUserID(int userID)
         {

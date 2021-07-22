@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccessLayer;
+using DataAccessLayer9;
 
-namespace BusinessLogic
+namespace BusinessLogic9
 {
     public class PairModel
     {
@@ -27,27 +27,5 @@ namespace BusinessLogic
             set { pairName = value; }
         }
 
-        public static PairModel Parse(BookDS.TabCategoryRow categoryRow)
-        {
-            if (categoryRow == null)
-                return null;
-
-            PairModel pair = new PairModel();
-            pair.PairID = categoryRow.CID;
-            pair.PairName = categoryRow.CategoryName;
-
-            return pair;
-        }
-        public static PairModel Parse(BookDS.TabLanguageRow langRow)
-        {
-            if (langRow == null)
-                return null;
-            PairModel pair = new PairModel();
-            pair.PairID = langRow.LID;
-            pair.PairName = langRow.LanguageName;
-
-            return pair;
-
-        }
     }
 }
